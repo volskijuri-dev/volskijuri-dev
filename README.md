@@ -4,9 +4,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=true&text=Juri%20Volski&fontSize=60&fontColor=3432a8&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-###
-
-<img align="right" height="200" src="./JURI(D)/Dev Project (IT-Bereich)/git/mein_bild.png"  />
 
 ###
 
